@@ -1,12 +1,12 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://unswqbot.azurewebsites.net/api/Request/",
-    selfUrl: "https://unswqbot-questions.azurewebsites.net",
+    apiBaseUrl: "https://thazinqna.azurewebsites.net/api/Request/",
+    selfUrl: "https://thazinqna-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
         tenantId: "aa81ea33-cf73-444b-b305-006b188a8fb4",
-        clientId: "63694c22-8440-47cc-8ba5-a7f150791daa",
+        clientId: "383fb702-c98c-482b-bb9c-4ee1270b6379",
         redirectUri: "/app-silent-end",
         cacheLocation: "localStorage",
         navigateToLoginRequestUrl: false,
